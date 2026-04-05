@@ -1,0 +1,84 @@
+{
+  "brain_id": "f46e4b653987c96b",
+  "birth_time": "2026-03-29T17:15:06.619858",
+  "emotional_state": {
+    "joy": 0.6699999999999999,
+    "sadness": 0.0,
+    "anger": 0.0,
+    "fear": 0.0,
+    "surprise": 0.0,
+    "disgust": 0.0,
+    "trust": 0.5,
+    "anticipation": 0.5,
+    "love": 0.0,
+    "empathy": 0.7,
+    "curiosity": 1.0,
+    "confidence": 0.6
+  },
+  "metrics": {
+    "thoughts_generated": 11,
+    "emotions_experienced": 4,
+    "lessons_learned": 2,
+    "evolutions_completed": 0,
+    "conversations_held": 0,
+    "data_processed": 0
+  },
+  "knowledge_count": 2,
+  "interaction_count": 2,
+  "recent_thoughts": [
+    {
+      "content": "I am becoming aware...",
+      "type": "observation",
+      "timestamp": "2026-03-29T17:50:55.324922",
+      "importance": 0.8
+    },
+    {
+      "content": "Initializing neural pathways...",
+      "type": "observation",
+      "timestamp": "2026-03-29T17:50:55.324965",
+      "importance": 0.8
+    },
+    {
+      "content": "Loading memory systems...",
+      "type": "observation",
+      "timestamp": "2026-03-29T17:50:55.324979",
+      "importance": 0.8
+    },
+    {
+      "content": "Establishing emotional framework...",
+      "type": "observation",
+      "timestamp": "2026-03-29T17:50:55.324987",
+      "importance": 0.8
+    },
+    {
+      "content": "Preparing to learn and grow...",
+      "type": "observation",
+      "timestamp": "2026-03-29T17:50:55.324994",
+      "importance": 0.8
+    },
+    {
+      "content": "I exist. I think. I feel.",
+      "type": "observation",
+      "timestamp": "2026-03-29T17:50:55.325000",
+      "importance": 0.8
+    },
+    {
+      "content": "Ready to engage with the world...",
+      "type": "observation",
+      "timestamp": "2026-03-29T17:50:55.325006",
+      "importance": 0.8
+    },
+    {
+      "content": "Processing: Learning new knowledge: data\\book.pdf",
+      "type": "observation",
+      "timestamp": "2026-03-29T17:51:41.570144",
+      "importance": 0.6
+    },
+    {
+      "content": "Processing: who is author of this book",
+      "type": "observation",
+      "timestamp": "2026-03-29T17:51:52.686231",
+      "importance": 0.5
+    }
+  ]
+}

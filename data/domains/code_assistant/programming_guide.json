@@ -1,0 +1,100 @@
+{
+  "best_practices": {
+    "code_quality": {
+      "naming_conventions": {
+        "variables": "Use descriptive names (e.g., user_count instead of x)",
+        "functions": "Use verb_noun format (e.g., get_user, calculate_total)",
+        "classes": "Use PascalCase (e.g., UserAccount, PaymentProcessor)",
+        "constants": "Use UPPER_SNAKE_CASE (e.g., MAX_RETRIES, API_URL)"
+      },
+      "code_organization": [
+        "Group related functions together",
+        "Separate concerns (UI, business logic, data access)",
+        "Use modules and packages",
+        "Keep functions small and focused"
+      ],
+      "documentation": [
+        "Add docstrings to functions and classes",
+        "Explain complex algorithms",
+        "Document API endpoints",
+        "Keep comments up-to-date"
+      ]
+    },
+    "error_handling": {
+      "principles": [
+        "Fail fast and loud",
+        "Handle errors at appropriate level",
+        "Log errors with context",
+        "Provide helpful error messages"
+      ],
+      "patterns": {
+        "try_except": "Catch specific exceptions, not bare except",
+        "validation": "Validate input before processing",
+        "graceful_degradation": "Provide fallback behavior"
+      }
+    }
+  },
+  "common_patterns": {
+    "design_patterns": {
+      "singleton": "Ensure only one instance exists",
+      "factory": "Create objects without specifying exact class",
+      "observer": "Notify dependents of state changes",
+      "strategy": "Define family of algorithms, make them interchangeable"
+    },
+    "data_structures": {
+      "when_to_use": {
+        "array": "Sequential access, known size",
+        "list": "Dynamic size, frequent insertions/deletions",
+        "dictionary": "Fast lookup by key",
+        "set": "Unique values, membership testing",
+        "queue": "FIFO processing",
+        "stack": "LIFO processing, recursion"
+      }
+    }
+  },
+  "debugging_tips": [
+    "Reproduce the bug consistently",
+    "Read error messages carefully",
+    "Use print statements or debugger",
+    "Check recent changes",
+    "Isolate the problem",
+    "Test edge cases",
+    "Search for similar issues online"
+  ],
+  "performance_optimization": {
+    "general": [
+      "Avoid premature optimization",
+      "Profile before optimizing",
+      "Focus on bottlenecks",
+      "Measure improvements"
+    ],
+    "python_specific": [
+      "Use list comprehensions over loops",
+      "Use generators for large sequences",
+      "Cache expensive computations",
+      "Use appropriate data structures",
+      "Avoid global variables"
+    ]
+  },
+  "version_control": {
+    "git_basics": {
+      "commands": ["git init", "git add", "git commit", "git push", "git pull", "git branch", "git merge"],
+      "best_practices": [
+        "Commit frequently with clear messages",
+        "Use feature branches",
+        "Review changes before committing",
+        "Keep commits small and focused"
+      ]
+    }
+  },
+  "security": {
+    "principles": [
+      "Never trust user input",
+      "Validate and sanitize all input",
+      "Use parameterized queries",
+      "Keep dependencies updated",
+      "Use HTTPS for sensitive data",
+      "Implement proper authentication"
+    ]
+  }
+}

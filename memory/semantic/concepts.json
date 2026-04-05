@@ -1,0 +1,449 @@
+{
+  "concepts": {
+    "competitive": {
+      "name": "Competitive",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.744668",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "programmer\u2019s": {
+      "name": "Programmer\u2019s",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.747398",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "handbook": {
+      "name": "Handbook",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.750158",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "antti": {
+      "name": "Antti",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.752498",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "laaksonen": {
+      "name": "Laaksonen",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.755367",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "draft": {
+      "name": "Draft",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.758336",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "july": {
+      "name": "July",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.762145",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "contents": {
+      "name": "Contents",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.765603",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "preface": {
+      "name": "Preface",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.768342",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "basic": {
+      "name": "Basic",
+      "definition": "Concept learned from data\\book.pdf",
+      "properties": {
+        "source": "data\\book.pdf",
+        "context": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . "
+      },
+      "category": null,
+      "created": "2026-03-29T17:16:04.771546",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "pascalcase": {
+      "name": "PascalCase",
+      "definition": "Concept learned from data\\domains\\code_assistant\\programming_guide.json",
+      "properties": {
+        "source": "data\\domains\\code_assistant\\programming_guide.json",
+        "context": "{\n  \"best_practices\": {\n    \"code_quality\": {\n      \"naming_conventions\": {\n        \"variables\": \"Use descriptive names (e.g., user_count instead of x)\",\n        \"functions\": \"Use verb_noun format (e."
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.668532",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "useraccount,": {
+      "name": "UserAccount,",
+      "definition": "Concept learned from data\\domains\\code_assistant\\programming_guide.json",
+      "properties": {
+        "source": "data\\domains\\code_assistant\\programming_guide.json",
+        "context": "{\n  \"best_practices\": {\n    \"code_quality\": {\n      \"naming_conventions\": {\n        \"variables\": \"Use descriptive names (e.g., user_count instead of x)\",\n        \"functions\": \"Use verb_noun format (e."
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.674502",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "paymentprocessor)\",": {
+      "name": "PaymentProcessor)\",",
+      "definition": "Concept learned from data\\domains\\code_assistant\\programming_guide.json",
+      "properties": {
+        "source": "data\\domains\\code_assistant\\programming_guide.json",
+        "context": "{\n  \"best_practices\": {\n    \"code_quality\": {\n      \"naming_conventions\": {\n        \"variables\": \"Use descriptive names (e.g., user_count instead of x)\",\n        \"functions\": \"Use verb_noun format (e."
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.679150",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "upper_snake_case": {
+      "name": "UPPER_SNAKE_CASE",
+      "definition": "Concept learned from data\\domains\\code_assistant\\programming_guide.json",
+      "properties": {
+        "source": "data\\domains\\code_assistant\\programming_guide.json",
+        "context": "{\n  \"best_practices\": {\n    \"code_quality\": {\n      \"naming_conventions\": {\n        \"variables\": \"Use descriptive names (e.g., user_count instead of x)\",\n        \"functions\": \"Use verb_noun format (e."
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.682266",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "max_retries,": {
+      "name": "MAX_RETRIES,",
+      "definition": "Concept learned from data\\domains\\code_assistant\\programming_guide.json",
+      "properties": {
+        "source": "data\\domains\\code_assistant\\programming_guide.json",
+        "context": "{\n  \"best_practices\": {\n    \"code_quality\": {\n      \"naming_conventions\": {\n        \"variables\": \"Use descriptive names (e.g., user_count instead of x)\",\n        \"functions\": \"Use verb_noun format (e."
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.687515",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "api_url)\"": {
+      "name": "API_URL)\"",
+      "definition": "Concept learned from data\\domains\\code_assistant\\programming_guide.json",
+      "properties": {
+        "source": "data\\domains\\code_assistant\\programming_guide.json",
+        "context": "{\n  \"best_practices\": {\n    \"code_quality\": {\n      \"naming_conventions\": {\n        \"variables\": \"Use descriptive names (e.g., user_count instead of x)\",\n        \"functions\": \"Use verb_noun format (e."
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.691747",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "https": {
+      "name": "HTTPS",
+      "definition": "Concept learned from data\\domains\\code_assistant\\programming_guide.json",
+      "properties": {
+        "source": "data\\domains\\code_assistant\\programming_guide.json",
+        "context": "{\n  \"best_practices\": {\n    \"code_quality\": {\n      \"naming_conventions\": {\n        \"variables\": \"Use descriptive names (e.g., user_count instead of x)\",\n        \"functions\": \"Use verb_noun format (e."
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.697270",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "express": {
+      "name": "Express",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.706647",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "international": {
+      "name": "International",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.711276",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "items": {
+      "name": "Items",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.716350",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "refunds": {
+      "name": "Refunds",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.722843",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "mastercard,": {
+      "name": "MasterCard,",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.728066",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "american": {
+      "name": "American",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.731271",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "express),": {
+      "name": "Express),",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.732609",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "paypal,": {
+      "name": "PayPal,",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.734502",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "google": {
+      "name": "Google",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.735982",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "facebook.\",": {
+      "name": "Facebook.\",",
+      "definition": "Concept learned from data\\domains\\customer_support\\faq.json",
+      "properties": {
+        "source": "data\\domains\\customer_support\\faq.json",
+        "context": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15"
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.737376",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "pm\",": {
+      "name": "PM\",",
+      "definition": "Concept learned from data\\domains\\health_advisor\\wellness_guide.json",
+      "properties": {
+        "source": "data\\domains\\health_advisor\\wellness_guide.json",
+        "context": "{\n  \"general_wellness\": {\n    \"sleep\": {\n      \"recommended_hours\": \"7-9 hours for adults\",\n      \"tips\": [\n        \"Maintain consistent sleep schedule\",\n        \"Avoid screens 1 hour before bed\",\n   "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.741738",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "always": {
+      "name": "Always",
+      "definition": "Concept learned from data\\domains\\health_advisor\\wellness_guide.json",
+      "properties": {
+        "source": "data\\domains\\health_advisor\\wellness_guide.json",
+        "context": "{\n  \"general_wellness\": {\n    \"sleep\": {\n      \"recommended_hours\": \"7-9 hours for adults\",\n      \"tips\": [\n        \"Maintain consistent sleep schedule\",\n        \"Avoid screens 1 hour before bed\",\n   "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.744190",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "psychological": {
+      "name": "Psychological",
+      "definition": "Concept learned from data\\domains\\research_assistant\\research_guide.json",
+      "properties": {
+        "source": "data\\domains\\research_assistant\\research_guide.json",
+        "context": "{\n  \"research_methods\": {\n    \"quantitative\": {\n      \"description\": \"Quantitative research involves collecting and analyzing numerical data\",\n      \"types\": [\"surveys\", \"experiments\", \"correlational "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.748418",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "association\",": {
+      "name": "Association\",",
+      "definition": "Concept learned from data\\domains\\research_assistant\\research_guide.json",
+      "properties": {
+        "source": "data\\domains\\research_assistant\\research_guide.json",
+        "context": "{\n  \"research_methods\": {\n    \"quantitative\": {\n      \"description\": \"Quantitative research involves collecting and analyzing numerical data\",\n      \"types\": [\"surveys\", \"experiments\", \"correlational "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.750943",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "title": {
+      "name": "Title",
+      "definition": "Concept learned from data\\domains\\research_assistant\\research_guide.json",
+      "properties": {
+        "source": "data\\domains\\research_assistant\\research_guide.json",
+        "context": "{\n  \"research_methods\": {\n    \"quantitative\": {\n      \"description\": \"Quantitative research involves collecting and analyzing numerical data\",\n      \"types\": [\"surveys\", \"experiments\", \"correlational "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.752280",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "journal": {
+      "name": "Journal",
+      "definition": "Concept learned from data\\domains\\research_assistant\\research_guide.json",
+      "properties": {
+        "source": "data\\domains\\research_assistant\\research_guide.json",
+        "context": "{\n  \"research_methods\": {\n    \"quantitative\": {\n      \"description\": \"Quantitative research involves collecting and analyzing numerical data\",\n      \"types\": [\"surveys\", \"experiments\", \"correlational "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.753792",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "name,": {
+      "name": "Name,",
+      "definition": "Concept learned from data\\domains\\research_assistant\\research_guide.json",
+      "properties": {
+        "source": "data\\domains\\research_assistant\\research_guide.json",
+        "context": "{\n  \"research_methods\": {\n    \"quantitative\": {\n      \"description\": \"Quantitative research involves collecting and analyzing numerical data\",\n      \"types\": [\"surveys\", \"experiments\", \"correlational "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.756524",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "language": {
+      "name": "Language",
+      "definition": "Concept learned from data\\domains\\research_assistant\\research_guide.json",
+      "properties": {
+        "source": "data\\domains\\research_assistant\\research_guide.json",
+        "context": "{\n  \"research_methods\": {\n    \"quantitative\": {\n      \"description\": \"Quantitative research involves collecting and analyzing numerical data\",\n      \"types\": [\"surveys\", \"experiments\", \"correlational "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.758923",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "john.": {
+      "name": "John.",
+      "definition": "Concept learned from data\\domains\\research_assistant\\research_guide.json",
+      "properties": {
+        "source": "data\\domains\\research_assistant\\research_guide.json",
+        "context": "{\n  \"research_methods\": {\n    \"quantitative\": {\n      \"description\": \"Quantitative research involves collecting and analyzing numerical data\",\n      \"types\": [\"surveys\", \"experiments\", \"correlational "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.760918",
+      "access_count": 0,
+      "confidence": 0.8
+    },
+    "article.\\\"": {
+      "name": "Article.\\\"",
+      "definition": "Concept learned from data\\domains\\research_assistant\\research_guide.json",
+      "properties": {
+        "source": "data\\domains\\research_assistant\\research_guide.json",
+        "context": "{\n  \"research_methods\": {\n    \"quantitative\": {\n      \"description\": \"Quantitative research involves collecting and analyzing numerical data\",\n      \"types\": [\"surveys\", \"experiments\", \"correlational "
+      },
+      "category": null,
+      "created": "2026-04-03T00:42:19.763098",
+      "access_count": 0,
+      "confidence": 0.8
+    }
+  },
+  "relationships": {}
+}

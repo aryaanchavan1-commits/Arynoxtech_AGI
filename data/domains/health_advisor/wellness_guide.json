@@ -1,0 +1,61 @@
+{
+  "general_wellness": {
+    "sleep": {
+      "recommended_hours": "7-9 hours for adults",
+      "tips": [
+        "Maintain consistent sleep schedule",
+        "Avoid screens 1 hour before bed",
+        "Keep bedroom cool and dark",
+        "Limit caffeine after 2 PM",
+        "Create relaxing bedtime routine"
+      ]
+    },
+    "nutrition": {
+      "basics": [
+        "Eat variety of fruits and vegetables",
+        "Choose whole grains over refined",
+        "Include lean proteins",
+        "Stay hydrated (8 glasses water daily)",
+        "Limit processed foods and added sugars"
+      ]
+    },
+    "exercise": {
+      "weekly_goals": {
+        "moderate_activity": "150 minutes",
+        "vigorous_activity": "75 minutes",
+        "strength_training": "2+ days"
+      },
+      "examples": ["walking", "swimming", "cycling", "yoga", "weight training"]
+    }
+  },
+  "mental_health": {
+    "stress_management": [
+      "Practice deep breathing",
+      "Regular physical activity",
+      "Mindfulness meditation",
+      "Maintain social connections",
+      "Get adequate sleep"
+    ],
+    "anxiety_signs": [
+      "Excessive worry",
+      "Restlessness",
+      "Difficulty concentrating",
+      "Muscle tension",
+      "Sleep problems"
+    ],
+    "when_to_seek_help": [
+      "Symptoms interfere with daily life",
+      "Symptoms last more than 2 weeks",
+      "Physical symptoms without medical cause",
+      "Thoughts of self-harm",
+      "Substance use to cope"
+    ]
+  },
+  "symptom_common_causes": {
+    "headache": ["stress", "dehydration", "eye strain", "lack of sleep", "caffeine withdrawal"],
+    "fatigue": ["poor sleep", "stress", "iron deficiency", "thyroid issues", "dehydration"],
+    "back_poor_posture": ["poor posture", "muscle strain", "sedentary lifestyle", "improper lifting"],
+    "digestive_issues": ["stress", "food intolerance", "poor diet", "dehydration", "medications"]
+  },
+  "disclaimer": "This information is for educational purposes only and is not a substitute for professional medical advice. Always consult a healthcare provider for medical concerns."
+}

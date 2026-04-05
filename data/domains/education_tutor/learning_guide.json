@@ -1,0 +1,80 @@
+{
+  "learning_strategies": {
+    "active_recall": {
+      "description": "Testing yourself on material rather than just re-reading",
+      "techniques": ["flashcards", "practice problems", "teaching others", "self-quizzing"],
+      "benefits": ["stronger memory", "identifies gaps", "builds confidence"]
+    },
+    "spaced_repetition": {
+      "description": "Reviewing material at increasing intervals",
+      "schedule": ["review after 1 day", "review after 3 days", "review after 7 days", "review after 14 days"],
+      "tools": ["Anki", "Quizlet", "manual flashcards"]
+    },
+    "pomodoro_technique": {
+      "description": "Work in focused intervals with breaks",
+      "structure": "25 min work + 5 min break, repeat 4 times, then 15-30 min break",
+      "benefits": ["improves focus", "prevents burnout", "increases productivity"]
+    }
+  },
+  "subject_guides": {
+    "math": {
+      "key_concepts": ["algebra", "geometry", "calculus", "statistics", "probability"],
+      "learning_tips": [
+        "Practice problems daily",
+        "Understand concepts before memorizing formulas",
+        "Draw diagrams to visualize problems",
+        "Review mistakes and understand why they happened"
+      ]
+    },
+    "science": {
+      "key_concepts": ["scientific method", "hypothesis testing", "data analysis", "observation"],
+      "learning_tips": [
+        "Conduct hands-on experiments",
+        "Connect concepts to real-world examples",
+        "Use visual aids and diagrams",
+        "Discuss findings with others"
+      ]
+    },
+    "language_arts": {
+      "key_concepts": ["reading comprehension", "writing", "grammar", "vocabulary", "critical thinking"],
+      "learning_tips": [
+        "Read regularly and widely",
+        "Write daily (journal, stories, essays)",
+        "Expand vocabulary through context",
+        "Analyze what you read critically"
+      ]
+    },
+    "programming": {
+      "key_concepts": ["variables", "loops", "functions", "data structures", "algorithms"],
+      "learning_tips": [
+        "Code daily, even small programs",
+        "Build projects to apply knowledge",
+        "Read other people's code",
+        "Debug systematically, not randomly"
+      ]
+    }
+  },
+  "study_environment": {
+    "setup": [
+      "Find a quiet, dedicated space",
+      "Remove distractions (phone, social media)",
+      "Have all materials ready before starting",
+      "Use good lighting and comfortable seating"
+    ],
+    "optimal_times": {
+      "morning": "Best for complex tasks and learning new material",
+      "afternoon": "Good for review and practice problems",
+      "evening": "Suitable for light review and planning"
+    }
+  },
+  "quiz_generation": {
+    "question_types": ["multiple choice", "true/false", "short answer", "essay", "fill in blank"],
+    "difficulty_levels": ["beginner", "intermediate", "advanced", "expert"],
+    "best_practices": [
+      "Mix question types",
+      "Include application questions, not just recall",
+      "Provide feedback on incorrect answers",
+      "Track progress over time"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "shipping": {
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15 business days.",
+    "keywords": ["shipping", "delivery", "how long", "when will"]
+  },
+  "returns": {
+    "question": "What is your return policy?",
+    "answer": "We accept returns within 30 days of purchase. Items must be unused and in original packaging. Refunds are processed within 5-7 business days.",
+    "keywords": ["return", "refund", "send back", "exchange"]
+  },
+  "tracking": {
+    "question": "How do I track my order?",
+    "answer": "You can track your order using the tracking number sent to your email. You can also check order status in your account dashboard.",
+    "keywords": ["track", "order status", "where is", "tracking number"]
+  },
+  "payment": {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers.",
+    "keywords": ["payment", "pay", "credit card", "paypal"]
+  },
+  "account": {
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' on our website, enter your email and password, and verify your email address. You can also sign up using Google or Facebook.",
+    "keywords": ["account", "sign up", "register", "create account"]
+  },
+  "discount": {
+    "question": "Do you have any discounts available?",
+    "answer": "Yes! Sign up for our newsletter to get 10% off your first order. We also have seasonal sales and loyalty rewards.",
+    "keywords": ["discount", "coupon", "sale", "promo code"]
+  }
+}

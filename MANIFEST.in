@@ -1,0 +1,36 @@
+# Arynoxtech_AGI MANIFEST.in
+# Include all necessary files in the package
+
+# Documentation
+include README.md
+include LICENSE
+include THESIS.md
+include CHANGELOG.md
+include CONTRIBUTING.md
+
+# Configuration files
+include config/*.json
+
+# Data files
+recursive-include data *.json
+recursive-include data/domains *.json
+
+# Requirements
+include requirements.txt
+
+# Core modules
+recursive-include core *.py
+
+# Arynoxtech AGI package
+recursive-include arynoxtech_agi *.py
+
+# Tests
+recursive-include tests *.py
+
+# Exclude venv and build artifacts
+global-exclude venv/
+global-exclude __pycache__/
+global-exclude *.pyc
+global-exclude build/
+global-exclude dist/
+global-exclude *.egg-info/

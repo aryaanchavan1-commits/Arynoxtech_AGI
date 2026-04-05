@@ -1,0 +1,128 @@
+{
+  "b63678a643c3dc2f": {
+    "id": "b63678a643c3dc2f",
+    "source": "data\\book.pdf",
+    "source_type": "pdf",
+    "content": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . . . . . 3\n1.2 Input and output . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\n1.3 Working with numbers . . . . . . . . . . . . . . . . . . . . . . . . . . 6\n1.4 Shortening code. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8\n1.5 Mathematics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\n1.6 Contests and resources . . . . . . . . . . . . . . . . . . . . . . . . . . 15\n2 Time complexity 17\n2.1 Calculation rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17\n2.2 Complexity classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20\n2.3 Estimating efficiency . . . . . . . . . . . . . . . . . . . . . . . . . . . 21\n2.4 Maximum subarray sum . . . . . . . . . . . . . . . . . . . . . . . . . 21\n3 Sorting 25\n3.1 Sorting theo",
+    "metadata": {
+      "pages": 296,
+      "title": "",
+      "author": "",
+      "file_size": 1099959
+    },
+    "timestamp": "2026-03-29T17:16:04.714967",
+    "chunk_count": 0
+  },
+  "c2cf1d78dc657d98": {
+    "id": "c2cf1d78dc657d98",
+    "source": "data\\book.pdf",
+    "source_type": "pdf",
+    "content": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . . . . . 3\n1.2 Input and output . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\n1.3 Working with numbers . . . . . . . . . . . . . . . . . . . . . . . . . . 6\n1.4 Shortening code. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8\n1.5 Mathematics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\n1.6 Contests and resources . . . . . . . . . . . . . . . . . . . . . . . . . . 15\n2 Time complexity 17\n2.1 Calculation rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17\n2.2 Complexity classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20\n2.3 Estimating efficiency . . . . . . . . . . . . . . . . . . . . . . . . . . . 21\n2.4 Maximum subarray sum . . . . . . . . . . . . . . . . . . . . . . . . . 21\n3 Sorting 25\n3.1 Sorting theo",
+    "metadata": {
+      "pages": 296,
+      "title": "",
+      "author": "",
+      "file_size": 1099959
+    },
+    "timestamp": "2026-03-29T17:32:16.305900",
+    "chunk_count": 0
+  },
+  "93d499f789dbe2cc": {
+    "id": "93d499f789dbe2cc",
+    "source": "data\\book.pdf",
+    "source_type": "pdf",
+    "content": "Competitive Programmer\u2019s Handbook\nAntti Laaksonen\nDraft July 3, 2018\n\nii\n\nContents\nPreface ix\nI Basic techniques 1\n1 Introduction 3\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . . . . . 3\n1.2 Input and output . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\n1.3 Working with numbers . . . . . . . . . . . . . . . . . . . . . . . . . . 6\n1.4 Shortening code. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8\n1.5 Mathematics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\n1.6 Contests and resources . . . . . . . . . . . . . . . . . . . . . . . . . . 15\n2 Time complexity 17\n2.1 Calculation rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17\n2.2 Complexity classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20\n2.3 Estimating efficiency . . . . . . . . . . . . . . . . . . . . . . . . . . . 21\n2.4 Maximum subarray sum . . . . . . . . . . . . . . . . . . . . . . . . . 21\n3 Sorting 25\n3.1 Sorting theo",
+    "metadata": {
+      "pages": 296,
+      "title": "",
+      "author": "",
+      "file_size": 1099959
+    },
+    "timestamp": "2026-03-29T17:51:41.535877",
+    "chunk_count": 0
+  },
+  "c3a0379d5d231bec": {
+    "id": "c3a0379d5d231bec",
+    "source": "data\\domains\\code_assistant\\programming_guide.json",
+    "source_type": "txt",
+    "content": "{\n  \"best_practices\": {\n    \"code_quality\": {\n      \"naming_conventions\": {\n        \"variables\": \"Use descriptive names (e.g., user_count instead of x)\",\n        \"functions\": \"Use verb_noun format (e.g., get_user, calculate_total)\",\n        \"classes\": \"Use PascalCase (e.g., UserAccount, PaymentProcessor)\",\n        \"constants\": \"Use UPPER_SNAKE_CASE (e.g., MAX_RETRIES, API_URL)\"\n      },\n      \"code_organization\": [\n        \"Group related functions together\",\n        \"Separate concerns (UI, business logic, data access)\",\n        \"Use modules and packages\",\n        \"Keep functions small and focused\"\n      ],\n      \"documentation\": [\n        \"Add docstrings to functions and classes\",\n        \"Explain complex algorithms\",\n        \"Document API endpoints\",\n        \"Keep comments up-to-date\"\n      ]\n    },\n    \"error_handling\": {\n      \"principles\": [\n        \"Fail fast and loud\",\n        \"Handle errors at appropriate level\",\n        \"Log errors with context\",\n        \"Provide helpful error ",
+    "metadata": {
+      "file_size": 3318,
+      "line_count": 99,
+      "word_count": 328,
+      "char_count": 3219
+    },
+    "timestamp": "2026-04-03T00:42:19.633870",
+    "chunk_count": 1
+  },
+  "76cde46750b71976": {
+    "id": "76cde46750b71976",
+    "source": "data\\domains\\customer_support\\faq.json",
+    "source_type": "txt",
+    "content": "{\n  \"shipping\": {\n    \"question\": \"How long does shipping take?\",\n    \"answer\": \"Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. International shipping takes 10-15 business days.\",\n    \"keywords\": [\"shipping\", \"delivery\", \"how long\", \"when will\"]\n  },\n  \"returns\": {\n    \"question\": \"What is your return policy?\",\n    \"answer\": \"We accept returns within 30 days of purchase. Items must be unused and in original packaging. Refunds are processed within 5-7 business days.\",\n    \"keywords\": [\"return\", \"refund\", \"send back\", \"exchange\"]\n  },\n  \"tracking\": {\n    \"question\": \"How do I track my order?\",\n    \"answer\": \"You can track your order using the tracking number sent to your email. You can also check order status in your account dashboard.\",\n    \"keywords\": [\"track\", \"order status\", \"where is\", \"tracking number\"]\n  },\n  \"payment\": {\n    \"question\": \"What payment methods do you accept?\",\n    \"answer\": \"We accept all major credit cards (Visa, MasterCard, A",
+    "metadata": {
+      "file_size": 1707,
+      "line_count": 31,
+      "word_count": 230,
+      "char_count": 1676
+    },
+    "timestamp": "2026-04-03T00:42:19.641383",
+    "chunk_count": 1
+  },
+  "ee6ff7966513abfa": {
+    "id": "ee6ff7966513abfa",
+    "source": "data\\domains\\education_tutor\\learning_guide.json",
+    "source_type": "txt",
+    "content": "{\n  \"learning_strategies\": {\n    \"active_recall\": {\n      \"description\": \"Testing yourself on material rather than just re-reading\",\n      \"techniques\": [\"flashcards\", \"practice problems\", \"teaching others\", \"self-quizzing\"],\n      \"benefits\": [\"stronger memory\", \"identifies gaps\", \"builds confidence\"]\n    },\n    \"spaced_repetition\": {\n      \"description\": \"Reviewing material at increasing intervals\",\n      \"schedule\": [\"review after 1 day\", \"review after 3 days\", \"review after 7 days\", \"review after 14 days\"],\n      \"tools\": [\"Anki\", \"Quizlet\", \"manual flashcards\"]\n    },\n    \"pomodoro_technique\": {\n      \"description\": \"Work in focused intervals with breaks\",\n      \"structure\": \"25 min work + 5 min break, repeat 4 times, then 15-30 min break\",\n      \"benefits\": [\"improves focus\", \"prevents burnout\", \"increases productivity\"]\n    }\n  },\n  \"subject_guides\": {\n    \"math\": {\n      \"key_concepts\": [\"algebra\", \"geometry\", \"calculus\", \"statistics\", \"probability\"],\n      \"learning_tips\": [\n ",
+    "metadata": {
+      "file_size": 3144,
+      "line_count": 79,
+      "word_count": 316,
+      "char_count": 3065
+    },
+    "timestamp": "2026-04-03T00:42:19.648043",
+    "chunk_count": 1
+  },
+  "99ef2e70260b0292": {
+    "id": "99ef2e70260b0292",
+    "source": "data\\domains\\health_advisor\\wellness_guide.json",
+    "source_type": "txt",
+    "content": "{\n  \"general_wellness\": {\n    \"sleep\": {\n      \"recommended_hours\": \"7-9 hours for adults\",\n      \"tips\": [\n        \"Maintain consistent sleep schedule\",\n        \"Avoid screens 1 hour before bed\",\n        \"Keep bedroom cool and dark\",\n        \"Limit caffeine after 2 PM\",\n        \"Create relaxing bedtime routine\"\n      ]\n    },\n    \"nutrition\": {\n      \"basics\": [\n        \"Eat variety of fruits and vegetables\",\n        \"Choose whole grains over refined\",\n        \"Include lean proteins\",\n        \"Stay hydrated (8 glasses water daily)\",\n        \"Limit processed foods and added sugars\"\n      ]\n    },\n    \"exercise\": {\n      \"weekly_goals\": {\n        \"moderate_activity\": \"150 minutes\",\n        \"vigorous_activity\": \"75 minutes\",\n        \"strength_training\": \"2+ days\"\n      },\n      \"examples\": [\"walking\", \"swimming\", \"cycling\", \"yoga\", \"weight training\"]\n    }\n  },\n  \"mental_health\": {\n    \"stress_management\": [\n      \"Practice deep breathing\",\n      \"Regular physical activity\",\n      \"Mindf",
+    "metadata": {
+      "file_size": 2152,
+      "line_count": 60,
+      "word_count": 216,
+      "char_count": 2092
+    },
+    "timestamp": "2026-04-03T00:42:19.654174",
+    "chunk_count": 1
+  },
+  "17190e8ccf9d34df": {
+    "id": "17190e8ccf9d34df",
+    "source": "data\\domains\\research_assistant\\research_guide.json",
+    "source_type": "txt",
+    "content": "{\n  \"research_methods\": {\n    \"quantitative\": {\n      \"description\": \"Quantitative research involves collecting and analyzing numerical data\",\n      \"types\": [\"surveys\", \"experiments\", \"correlational studies\"],\n      \"tools\": [\"SPSS\", \"R\", \"Python\", \"Excel\"],\n      \"best_for\": \"Testing hypotheses and measuring relationships\"\n    },\n    \"qualitative\": {\n      \"description\": \"Qualitative research involves collecting and analyzing non-numerical data\",\n      \"types\": [\"interviews\", \"focus groups\", \"case studies\", \"ethnography\"],\n      \"tools\": [\"NVivo\", \"ATLAS.ti\", \"thematic analysis\"],\n      \"best_for\": \"Understanding experiences, meanings, and perspectives\"\n    },\n    \"mixed_methods\": {\n      \"description\": \"Combines both quantitative and qualitative approaches\",\n      \"benefits\": [\"triangulation\", \"comprehensive understanding\", \"flexibility\"],\n      \"best_for\": \"Complex research questions requiring multiple perspectives\"\n    }\n  },\n  \"citation_formats\": {\n    \"APA\": {\n      \"name\": \"Ame",
+    "metadata": {
+      "file_size": 2439,
+      "line_count": 57,
+      "word_count": 229,
+      "char_count": 2382
+    },
+    "timestamp": "2026-04-03T00:42:19.660411",
+    "chunk_count": 1
+  },
+  "2760d4ece95cc012": {
+    "id": "2760d4ece95cc012",
+    "source": "data\\ingestion_index.json",
+    "source_type": "txt",
+    "content": "{\n  \"b63678a643c3dc2f\": {\n    \"id\": \"b63678a643c3dc2f\",\n    \"source\": \"data\\\\book.pdf\",\n    \"source_type\": \"pdf\",\n    \"content\": \"Competitive Programmer\\u2019s Handbook\\nAntti Laaksonen\\nDraft July 3, 2018\\n\\nii\\n\\nContents\\nPreface ix\\nI Basic techniques 1\\n1 Introduction 3\\n1.1 Programming languages . . . . . . . . . . . . . . . . . . . . . . . . . 3\\n1.2 Input and output . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\\n1.3 Working with numbers . . . . . . . . . . . . . . . . . . . . . . . . . . 6\\n1.4 Shortening code. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8\\n1.5 Mathematics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\\n1.6 Contests and resources . . . . . . . . . . . . . . . . . . . . . . . . . . 15\\n2 Time complexity 17\\n2.1 Calculation rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17\\n2.2 Complexity classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20\\n2.3 Estimating efficiency . . . . . ",
+    "metadata": {
+      "file_size": 11445,
+      "line_count": 113,
+      "word_count": 1736,
+      "char_count": 11332
+    },
+    "timestamp": "2026-04-03T00:42:19.811623",
+    "chunk_count": 3
+  }
+}

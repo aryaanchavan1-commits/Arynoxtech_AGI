@@ -1,0 +1,58 @@
+{
+  "research_methods": {
+    "quantitative": {
+      "description": "Quantitative research involves collecting and analyzing numerical data",
+      "types": ["surveys", "experiments", "correlational studies"],
+      "tools": ["SPSS", "R", "Python", "Excel"],
+      "best_for": "Testing hypotheses and measuring relationships"
+    },
+    "qualitative": {
+      "description": "Qualitative research involves collecting and analyzing non-numerical data",
+      "types": ["interviews", "focus groups", "case studies", "ethnography"],
+      "tools": ["NVivo", "ATLAS.ti", "thematic analysis"],
+      "best_for": "Understanding experiences, meanings, and perspectives"
+    },
+    "mixed_methods": {
+      "description": "Combines both quantitative and qualitative approaches",
+      "benefits": ["triangulation", "comprehensive understanding", "flexibility"],
+      "best_for": "Complex research questions requiring multiple perspectives"
+    }
+  },
+  "citation_formats": {
+    "APA": {
+      "name": "American Psychological Association",
+      "common_fields": ["psychology", "social sciences", "education"],
+      "in_text_example": "(Smith, 2023)",
+      "reference_example": "Smith, J. (2023). Title of article. Journal Name, 10(2), 123-145."
+    },
+    "MLA": {
+      "name": "Modern Language Association",
+      "common_fields": ["literature", "humanities", "languages"],
+      "in_text_example": "(Smith 123)",
+      "reference_example": "Smith, John. \"Title of Article.\" Journal Name, vol. 10, no. 2, 2023, pp. 123-145."
+    },
+    "Chicago": {
+      "name": "Chicago Manual of Style",
+      "common_fields": ["history", "arts", "social sciences"],
+      "in_text_example": "^1",
+      "reference_example": "Smith, John. \"Title of Article.\" Journal Name 10, no. 2 (2023): 123-145."
+    }
+  },
+  "literature_review_steps": [
+    "Define your research question",
+    "Search academic databases",
+    "Evaluate source credibility",
+    "Organize findings thematically",
+    "Identify gaps in literature",
+    "Synthesize and critique",
+    "Write the review"
+  ],
+  "academic_databases": {
+    "Google Scholar": "Free access to scholarly literature",
+    "PubMed": "Biomedical and life sciences",
+    "IEEE Xplore": "Engineering and technology",
+    "JSTOR": "Humanities and social sciences",
+    "Scopus": "Multidisciplinary",
+    "Web of Science": "High-impact research"
+  }
+}
